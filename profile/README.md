@@ -10,7 +10,7 @@
         <b>Chang-Jin-Lee</b>
       </a>
       <br>
-      Engine Developer
+      Game Developer
     </td>
     <td align="center" width="200">
       <a href="https://github.com/minkee009">
@@ -18,7 +18,7 @@
         <b>minkee009</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
     <td align="center" width="200">
       <a href="https://github.com/racoonisdog">
@@ -26,7 +26,7 @@
         <b>racoonisdog</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
     <td align="center" width="200">
       <a href="https://github.com/OrangeSnack">
@@ -34,7 +34,7 @@
         <b>OrangeSnack</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
         <b>mob954325</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
     <td align="center" width="200">
       <a href="https://github.com/hth-hiro">
@@ -52,7 +52,7 @@
         <b>hth-hiro</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Dareuta">
@@ -60,7 +60,7 @@
         <b>Dareuta</b>
       </a>
       <br>
-      Game Contents Developer
+      Game Developer
     </td>
     <td align="center" width="200"></td>
   </tr>
